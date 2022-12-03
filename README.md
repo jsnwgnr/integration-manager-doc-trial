@@ -1,6 +1,6 @@
 # Key Features
 
-### **Integration Manager is the world's first true hybrid integration platform.**
+### **The world's first true hybrid integration platform.**
 
 Established in 2008, and architected with a cloud-first imperative, the Actian DataCloud platform has unleashed its power to all manners of deployment, including SaaS, on-premise, and private cloud.
 
